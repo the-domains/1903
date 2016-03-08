@@ -1,0 +1,28 @@
+name: '1903'
+favicon: null
+layout_spectrum: 0.4213971176650375
+typography_spectrum: 0.27395714609883726
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.12094348529353738
+  lightness: 0.03425053111277521
+  saturation: 0.714447297854349
+  rhythmicContrast: 0.09997485182248056
+purpose: []
